@@ -1,0 +1,9 @@
+.form {
+    display: flex;
+    flex-flow: column;
+    input,
+    select {
+        padding: 10px;
+        margin: 10px;
+    }
+}
